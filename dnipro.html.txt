@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dnipro RP</title>
+</head>
+<body>
+<h1 style="text-align: center;"><span style="color: #993300;">DNIPRO RP</span></h1>
+<h2 style="text-align: center;"><span style="color: #0000ff;"><strong><strong>Твой регион свободы</strong></strong></span></h2>
+<h3><span style="color: #0000ff;"><strong><strong>DNIPRO RP - ето проект на базе ГТА СанАндреас с реальными авто, скинами и роботами. Здесь ты легко можеш стать организатором нашего штата и начать влиять на него.</strong></strong></span></h3>
+<hr />
+<p><strong><strong><a title="Сборка" href="Нету">Установить Сборку</a></strong></strong></p>
+<h3><strong><strong>Как установить?</strong></strong></h3>
+<h3><em><strong><strong>1. Скачайте архив (выше).</strong></strong></em></h3>
+<h3><em><strong><strong>2. Розпакуйте на робочий стол.</strong></strong></em></h3>
+<h3><em><strong><strong>3. Переместите в нудную папку.</strong></strong></em></h3>
+<h3><em><strong><strong>4. Запустите САМП на своем сервере</strong></strong></em></h3>
+<p style="text-align: center;"><em><strong><strong>Наше комюнити</strong></strong></em></p>
+<p><em><strong><strong><a href="ТГК"><img src="https://phonoteka.org/uploads/posts/2022-09/thumbs/1663789268_2-phonoteka-org-p-znachok-telegramma-bez-fona-krasivo-3.png" alt="" width="50" /></a></strong></strong></em></p>
+<p style="text-align: right;"><em><strong><strong><img src="https://abrakadabra.fun/uploads/posts/2022-01/thumbs/1641406177_27-abrakadabra-fun-p-krmp-png-50.png" alt="" width="342" height="193" /></strong></strong></em></p>
+</body>
+</html>
